@@ -22,11 +22,11 @@ Using this dataset, we would like you to create a model which is able to classif
 
 ## <span id="ml">B. Machine Learning </span>
 
-- Check-out notebook:  [@notebook](https://github.com/Jayem-11/Swahili_speech_to_text/blob/main/swahili-whisper-finetuning.ipynb)
+- Check-out notebook:  [@notebook](https://github.com/Jayem-11/Malaria/blob/main/malaria_classification.ipynb)
 
 
 ### Evaluation
-The model had a WER score of 8.365
+The model had an Accuracy score of score of 97.6
 [wandb](https://api.wandb.ai/links/ronojohnmichael/8bafteyt)
 
 ## <span id="dp"> C. Deploying </span>
