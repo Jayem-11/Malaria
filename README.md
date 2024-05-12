@@ -25,8 +25,10 @@ Using this dataset, we would like you to create a model which is able to classif
 
 
 ### Evaluation
-The model had an Accuracy score of score of 98
-![eval](https://github.com/Jayem-11/Malaria/blob/main/eval.png)
+The model had an Accuracy score of score of 98  
+
+![eval](https://github.com/Jayem-11/Malaria/blob/main/eval.png)  
+
 
 ## <span id="dp"> C. Deploying </span>
 
