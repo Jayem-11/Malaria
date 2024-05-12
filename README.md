@@ -1,8 +1,7 @@
 # Malaria Classification
 
 
-![car](https://github.com/Jayem-11/Swahili_speech_to_text/blob/main/sw.jpg)
-photo credits: [Devonyu](https://www.istockphoto.com/portfolio/Devonyu?mediatype=photography)  
+![blood_test](https://github.com/Jayem-11/Malaria/blob/main/blood.jpg)
 
 ## Description: 
 The goal is to create a model which is able to classify whether a blood smear is uninfected or parasitized.   
@@ -26,7 +25,7 @@ Using this dataset, we would like you to create a model which is able to classif
 
 
 ### Evaluation
-The model had an Accuracy score of score of 97.6
+The model had an Accuracy score of score of 98
 [wandb](https://api.wandb.ai/links/ronojohnmichael/8bafteyt)
 
 ## <span id="dp"> C. Deploying </span>
