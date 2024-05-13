@@ -25,19 +25,21 @@ Using this dataset, we would like you to create a model which is able to classif
 
 
 ### Evaluation
-The model had an Accuracy score of score of 98
-[wandb](https://api.wandb.ai/links/ronojohnmichael/8bafteyt)
+The model had an Accuracy score of score of 98  
+
+![eval](https://github.com/Jayem-11/Malaria/blob/main/eval.png)  
+
 
 ## <span id="dp"> C. Deploying </span>
 
-- Deployed at: https://swahilispeechtotext-htxcv6sjkjcazseovpfrkk.streamlit.app/
-- Upload a 30 second audio or less 
-![Jupyter notebook example](https://github.com/Jayem-11/Swahili_speech_to_text/blob/main/ui1.png)
+- Deployed at: https://zlrrpftijem4mdbqpfu7kw.streamlit.app/ 
+- Upload an Image of the blood sample 
+![Jupyter notebook example](https://github.com/Jayem-11/Malaria/blob/main/st_0.png)
 
 ## 
 
-- Hit the text button.
-![Jupyter notebook example](https://github.com/Jayem-11/Swahili_speech_to_text/blob/main/ui2.png)
+- Hit the Predict button.
+![Jupyter notebook example](https://github.com/Jayem-11/Malaria/blob/main/st.png)
 
 
 
